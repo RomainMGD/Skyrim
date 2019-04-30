@@ -1,0 +1,60 @@
+.bgnav{
+    background-image: url(../);
+}
+.navco{
+    color: rgb(4, 4, 119);
+}
+body{
+
+}
+
+.centre{
+    text-align: center;
+}
+
+.bgbody{
+    background-image: url(../Images/Fond/Skylog.jpg);
+    height: 724px;
+    margin-top: -5%;
+    padding-top: 50%;
+    text-align: center;
+}
+
+.textindex1{
+    margin-top: -580px;
+    color: rgb(140, 160, 160);
+}
+
+.textindex2{
+    margin-top: -35px;
+    color: rgb(140, 160, 160);
+}
+
+.textindex3{
+    margin-top: 300px;
+    color: rgb(140, 160, 160);
+}
+
+.logosword{
+    margin-right: 300px;
+    margin-top: -20px;
+}
+
+.centre{
+    width: 100%;
+}
+
+.bcgbody{
+    background-image: url(../Images/Fond/bgaccueil.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 45px;
+    background-attachment: fixed;
+}
+
+.bgnav{
+    background-image: url(../Images/Fond/navbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
